@@ -1,6 +1,7 @@
 #!/usr/bin/python
+# Create by Paul Woodman
 # Basic script to understand that a variable is something that can change.
-# In this example I have used if/else statment to help understand
+# In this example I have used if/else statments
 
 #import the random module
 from random import randint

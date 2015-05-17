@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Create by Paul Woodman
+# Created by Paul Woodman
 # Basic script to understand that a variable is something that can change.
 # In this example I have used if/else statments
 

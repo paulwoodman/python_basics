@@ -11,11 +11,14 @@ from random import randint
 x = randint(1,10)
 
 # the if state will print if x is less than 6
-if x < 6:
+if x <= 5:
   print 'Under 6'  
+  print x 
 # the elif will print if x is equal to 6
 elif x == 6:
   print 'It was a six! grab a cookie'
+  print x
 # The elif will print if x is greater than 6
-elif x > 6:
+elif x >= 5:
   print "Over 6"
+  print x
